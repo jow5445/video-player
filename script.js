@@ -4,7 +4,7 @@ const stop = document.getElementById('stop');
 const progress = document.getElementById('progress');
 const timestamp = document.getElementById('timestamp');
 
-// Play & pause video
+// Play
 function toggleVideoStatus() {
     if (video.paused) {
         video.play();
