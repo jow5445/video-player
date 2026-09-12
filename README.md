@@ -40,7 +40,6 @@ cd video-player
 ```
 
 Open `index.html` in your preferred web browser.
-
 ## Customization
 
 You can customize the player by:
